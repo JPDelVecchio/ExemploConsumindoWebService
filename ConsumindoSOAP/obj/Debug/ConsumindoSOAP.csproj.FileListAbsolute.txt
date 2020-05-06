@@ -1,0 +1,9 @@
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\bin\Debug\ConsumindoSOAP.exe.config
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\bin\Debug\ConsumindoSOAP.exe
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\bin\Debug\ConsumindoSOAP.pdb
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\obj\Debug\ConsumindoSOAP.csprojAssemblyReference.cache
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\obj\Debug\ConsumindoSOAP.Form1.resources
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\obj\Debug\ConsumindoSOAP.Properties.Resources.resources
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\obj\Debug\ConsumindoSOAP.csproj.GenerateResource.cache
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\obj\Debug\ConsumindoSOAP.exe
+C:\Users\DELVECCHIO\source\repos\ConsumindoSOAP\ConsumindoSOAP\obj\Debug\ConsumindoSOAP.pdb
